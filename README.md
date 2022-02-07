@@ -2,7 +2,8 @@
 Some random jsons repo for program called Ripcord.
 
 ## Rip- What?
-Ripcord is unofficial discord/slack client. It has built in functionality for customization. 
+Ripcord is unofficial discord/slack client. It has built in functionality for customization.
+Here is the link: https://cancel.fm/ripcord/
 
 ## How to apply?
 Relatively easy.
